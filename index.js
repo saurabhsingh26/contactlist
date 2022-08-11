@@ -42,7 +42,7 @@ app.get('/',function(req,res){
     // return res.render('home',{
     //     title:'I am flying',
     //     contact_list: contactList
-    // });
+    // });hjkghghkk
 
     // fetching from databases
     Contact.find({},function(err,contacts){
